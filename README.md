@@ -1,9 +1,10 @@
-<h1 align="center">Hi 👋 I'm Aishwarya, Welcome to My GitHub!</h1>
+<h1 align="center">Hi 👋 I'm Aishwarya, Glad You're Here!</h1>
+
 
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,tailwind,py,c,cpp,java,js,nodejs,react,figma,canva,html" height="60" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=ts,tailwind,py,c,cpp,java,js,nodejs,react,figma,html,css" height="60" alt="skills" />
 </div>
 
 ###
